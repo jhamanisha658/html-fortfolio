@@ -1,7 +1,4 @@
 Portfolio
-
-## Description
-
 Welcome to my portfolio! I'm passionate about Web development. Here, you'll find a curated collection of my latest projects showcasing my skills and creativity. Each project reflects my dedication to delivering high-quality solutions. I'm excited to share my work with you and am open to collaboration opportunities. Let's connect!
 
 ## Features
